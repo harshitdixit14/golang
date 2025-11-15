@@ -60,4 +60,15 @@ func DecodeJson() {
 	} else {
 		fmt.Println("JSON was NOT VALID")
 	}
+	// structure just like another model which will help us to consume json data
+
+	// some cases involve extract json as key value pair
+
+	var myOnlineData map[string]interface{}
+	json.Unmarshal(jsonDataFromWeb, &myOnlineData)
+	fmt.Printf("%#v\n", myOnlineData)
+
+	for key, value := range myOnlineData {
+		fmt.Printf("Key is %v and value is %v and type is : %T\n", key, value, value)
+	}
 }
