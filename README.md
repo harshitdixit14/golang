@@ -55,7 +55,11 @@ under the hood arrays
 
 # Go mod - tooling
 
-# semantic versioning
+# semantic versioning - MAJOR.MINOR.PATCH
 
 file:///home/harshit-dixit/Pictures/Screenshots/Screenshot%20from%202025-11-15%2016-11-28.png
+
+
+# routing system - gorilla/mux
+
 
