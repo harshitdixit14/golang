@@ -52,3 +52,10 @@ under the hood arrays
 # We send data in api req as json format or URL encoded format
 
 # Creating and handling json 
+
+# Go mod - tooling
+
+# semantic versioning
+
+file:///home/harshit-dixit/Pictures/Screenshots/Screenshot%20from%202025-11-15%2016-11-28.png
+
