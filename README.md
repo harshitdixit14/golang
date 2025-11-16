@@ -63,3 +63,7 @@ file:///home/harshit-dixit/Pictures/Screenshots/Screenshot%20from%202025-11-15%2
 # routing system - gorilla/mux
 
 
+# := (walrus operator) are use for variable declaration and assignment in one line but the disadvantage is that they can't be used outside the function
+
+# building API in golang
+
