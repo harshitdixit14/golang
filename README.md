@@ -67,3 +67,10 @@ file:///home/harshit-dixit/Pictures/Screenshots/Screenshot%20from%202025-11-15%2
 
 # building API in golang
 
+# go project folder structure
+
+1- in application with golang in root directory we have only one go file eg. main.go we will create a folder and inside that folder new files like controllers etc.
+
+2- " 3 folders which are necessary models, controllers/handlers, routers and helpers
+
+# init method in golang => It is a special method that runs only at very first time and only at one time
